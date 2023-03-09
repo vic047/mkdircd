@@ -8,5 +8,5 @@ Download the two files (mkdircd & mkdircd.sh) and move them in /usr/bin/
 `mkdircd testdir`
 creates and cd's in testdir/
 
-`mkdircd ../test
+`mkdircd ../test`
 creates and cd's in ../test/
